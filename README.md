@@ -22,3 +22,6 @@
 ![AlarmSetting](https://github.com/chuuuul/BusApp/blob/master/gitData/2.jpg)</br>
 ![AddedAlarmList](https://github.com/chuuuul/BusApp/blob/master/gitData/3.jpg)
 ![RunAlarm](https://github.com/chuuuul/BusApp/blob/master/gitData/4.jpg)
+
+### 환경 / 라이브러리 / 지식
+안드로이드, 자바, 공공기관 API, Notification, BroadCast Intent(알람)
